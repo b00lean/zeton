@@ -1,1 +1,2 @@
-# zeton
+# Žeton
+Žetony do nákupních vozíků.
