@@ -1,7 +1,12 @@
 # Moudrý žeton
 Žetony do nákupních vozíků s různou tématikou.
 
-Tyto, žetony jsou určené k vytisknutí na 3D tiskárně a ponechání v nákupním vozíku.
+Tyto, žetony jsou určené k vytisknutí na 3D tiskárně a k ponechání v nákupním vozíku.  
+Žeton je o velikosti mince 5 Kč(23mm x 1.85mm)  
+
+## Jak přispět
+Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávejte prostřednictvím Forku a Pull Requestu.
+
 
 ## Doporučené nastavení tiskárny
 ![Settings](doc/settings.png)
