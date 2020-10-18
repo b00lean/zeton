@@ -5,10 +5,10 @@ Tyto, žetony jsou určené k vytisknutí na 3D tiskárně a k ponechání v ná
 Žeton je o velikosti mince 5 Kč(23mm x 1.85mm)  
 
 ## Jak přispět
-Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávejte prostřednictvím Forku a Pull Requestu.
+Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávejte do tohoto repository prostřednictvím Forku a Pull Requestu.
 
 
-## Doporučené nastavení tiskárny
+## Doporučené nastavení tiskárny pro tisk
 ![Settings](doc/settings.png)
 
 ## BTC - Jediné spoření 
