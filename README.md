@@ -13,21 +13,21 @@ Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávej
 
 ## BTC - Jediné spoření 
 *Má smysl spořit ve státem poskytovaných nástrojích?*
-- [Stáhnout BENDER](blender/btc_jedine_sporeni.blend)
+- [Stáhnout BLENDER](blender/btc_jedine_sporeni.blend)
 - [Stáhnout STL](stl/btc_jedine_sporeni.stl)
 
 ![Preview](png/btc_jedine_sporeni.png)
 
 ## BTC - Důchod nebude 
 *Existuje ještě někdo pod 30let kdo si myslí, že ho čeká nějaký důchod?*
-- [Stáhnout BENDER](blender/btc_duchod_nebude.blend)
+- [Stáhnout BLENDER](blender/btc_duchod_nebude.blend)
 - [Stáhnout STL](stl/btc_duchod_nebude.stl)
 
 ![Preview](png/btc_duchod_nebude.png)
 
 ## ANOFERT
-*Koho chleba jíš, toho píseň zpívej*
-- [Stáhnout BENDER](blender/anofert_koho_chleba.blend)
+*Koho chleba jíš, toho píseň zpívej - Lidová moudrost*
+- [Stáhnout BLENDER](blender/anofert_koho_chleba.blend)
 - [Stáhnout STL](stl/anofert_koho_chleba.stl)
 
 ![Preview](png/anofert_koho_chleba.png)
