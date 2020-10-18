@@ -16,6 +16,7 @@ Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávej
 - [Stáhnout BLENDER](blender/btc_jedine_sporeni.blend)
 - [Stáhnout STL](stl/btc_jedine_sporeni.stl)
 
+**_Náhled zobrazuje dvě strany téže mince. Není potřeba je slepovat._**
 ![Preview](png/btc_jedine_sporeni.png)
 
 ## BTC - Důchod nebude 
@@ -23,6 +24,7 @@ Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávej
 - [Stáhnout BLENDER](blender/btc_duchod_nebude.blend)
 - [Stáhnout STL](stl/btc_duchod_nebude.stl)
 
+**_Náhled zobrazuje dvě strany téže mince. Není potřeba je slepovat._**
 ![Preview](png/btc_duchod_nebude.png)
 
 ## ANOFERT
@@ -30,4 +32,5 @@ Jakýkoli nový model, který rozšíří sbírku je výtaný. Modely přidávej
 - [Stáhnout BLENDER](blender/anofert_koho_chleba.blend)
 - [Stáhnout STL](stl/anofert_koho_chleba.stl)
 
+**_Náhled zobrazuje dvě strany téže mince. Není potřeba je slepovat._**
 ![Preview](png/anofert_koho_chleba.png)
